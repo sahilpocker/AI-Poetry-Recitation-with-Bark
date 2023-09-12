@@ -12,6 +12,12 @@ Replace the variable topic with the desired poem topic. The notebook will genera
 
 Follow the notebook instructions to generate and concatenate the audio for the poem.
 
+## Demo
+
+To provide a quick demonstration of this project, two sample poems are included in the repository with the following prompts:
+ 1) AI and the Future
+ 2) The Obstacles in Life
+
 ## To-Do
 Here are some future enhancements that can be made to this project:
 
